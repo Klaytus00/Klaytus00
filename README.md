@@ -34,7 +34,7 @@ An AI-powered healthcare concept focused on symptom analysis and early health in
 **Languages:** Python, SQL  
 **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Machine Learning:** Regression, Classification, Feature Engineering, Model Evaluation  
-**Tools:** Jupyter Notebook, Git, GitHub, Excel, Power BI 
+**Tools:** Jupyter Notebook, Git, GitHub, Excel, Power BI  
 **Other:** Data Wrangling, EDA, API Integration (learning phase)
 
 ---
