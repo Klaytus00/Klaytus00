@@ -58,4 +58,4 @@ link: [https://github.com/Catalyst-Support-Group](https://github.com/Catalyst-Su
 
 ---
 
-> “I believe data is not just numbers—it’s insight, prediction, and impact.”
+> “I believe data is not just numbers; it’s insight, prediction, and impact.”
